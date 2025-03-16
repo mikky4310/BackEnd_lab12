@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\anast\\OneDrive\\Desktop\\\u043C\u043F\u0443\\\u0431\u044D\u043A\\\u043B\u0430\u0431\u044B\\lab12\\lab12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0688D9D2-BAE0-4BC1-B331-C341AF21A70A}|lab12\\lab12.csproj|c:\\users\\anast\\onedrive\\desktop\\\u043C\u043F\u0443\\\u0431\u044D\u043A\\\u043B\u0430\u0431\u044B\\lab12\\lab12\\lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0688D9D2-BAE0-4BC1-B331-C341AF21A70A}|lab12\\lab12.csproj|solutionrelative:lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0688D9D2-BAE0-4BC1-B331-C341AF21A70A}|lab12\\lab12.csproj|c:\\users\\anast\\onedrive\\desktop\\\u043C\u043F\u0443\\\u0431\u044D\u043A\\\u043B\u0430\u0431\u044B\\lab12\\lab12\\lab12\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0688D9D2-BAE0-4BC1-B331-C341AF21A70A}|lab12\\lab12.csproj|solutionrelative:lab12\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\Desktop\\\u043C\u043F\u0443\\\u0431\u044D\u043A\\\u043B\u0430\u0431\u044B\\lab12\\lab12\\lab12\\Program.cs",
+              "RelativeDocumentMoniker": "lab12\\Program.cs",
+              "ToolTip": "C:\\Users\\anast\\OneDrive\\Desktop\\\u043C\u043F\u0443\\\u0431\u044D\u043A\\\u043B\u0430\u0431\u044B\\lab12\\lab12\\lab12\\Program.cs",
+              "RelativeToolTip": "lab12\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:09:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\anast\\OneDrive\\Desktop\\\u043C\u043F\u0443\\\u0431\u044D\u043A\\\u043B\u0430\u0431\u044B\\lab12\\lab12\\lab12\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "lab12\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\anast\\OneDrive\\Desktop\\\u043C\u043F\u0443\\\u0431\u044D\u043A\\\u043B\u0430\u0431\u044B\\lab12\\lab12\\lab12\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "lab12\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwCwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T11:08:09.972Z",
               "EditorCaption": ""

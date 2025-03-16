@@ -1,4 +1,5 @@
 using lab12.Model;
+using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,4 +27,19 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.Map("/about/{name}", (string name) => $"About the game {name}"); //добавляем маршрутизацию
+
+app.Map("/news/{id:int}", (int id) => $"News: {id}"); //работа с параметрами
+
+app.Map("{id=8}/{name=Aaron}", (int id, string name) => $"Forum: {id}\nName: {name}");
+
 app.Run();
+
+public class AtributTestController : Controller
+{
+    [Route("/news/{id:int}/{name:maxlength(6)}")]
+    public string Person(int id, string name)
+    {
+        return $"ID: {id}\nName: {name}";
+    }
+}
